@@ -101,7 +101,7 @@ The executable will be generated in the `dist` folder.
 
 ## Author
 
-Developed by [Your Name]  
+Developed by TIC - CISMID members.  
 Internal project for labeling cracks in wall images.
 
 ---
