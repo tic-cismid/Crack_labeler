@@ -3,6 +3,8 @@
 
 **Crack Labeler** is a graphical application for manual image annotation, developed in Python using Tkinter and OpenCV. It is designed to facilitate the labeling and cataloging of cracks on wall images, allowing users to draw rectangles and scale lines directly on the images.
 
+![Alt text](images/blank.png?raw=true "Title")
+
 ---
 
 ## Features
